@@ -31,7 +31,7 @@ Currículo: Detalhes sobre minha educação, experiência profissional e cursos 
 Contato: Um formulário para que os visitantes possam entrar em contato comigo diretamente.
 
 Links Úteis
-LinkedIn: linkedin.com/in/christopher-hedler-738257301/
+LinkedIn: [linkedin.com/in/christopher-hedler-738257301/](https://www.linkedin.com/in/christopher-hedler-738257301)
 
 Visualizar o Portfólio: https://christophermhedler.github.io/Curr-culo---Portfolio/
 
