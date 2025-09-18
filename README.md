@@ -32,6 +32,7 @@ Contato: Um formulário para que os visitantes possam entrar em contato comigo d
 
 Links Úteis
 LinkedIn: linkedin.com/in/christopher-hedler-738257301/
+
 Visualizar o Portfólio: https://christophermhedler.github.io/Curr-culo---Portfolio/
 
 Espero que este README seja útil para o seu projeto!
